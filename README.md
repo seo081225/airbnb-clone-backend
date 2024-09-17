@@ -7,3 +7,7 @@ poetry add
 
 poetry shell
 django-admin
+
+
+## 3.0 Run Server
+python manage.py runserver
