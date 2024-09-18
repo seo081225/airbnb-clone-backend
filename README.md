@@ -16,3 +16,6 @@ python manage.py runserver
 ## 4.1 Migrations
 python manage.py makemigrations 
 python manage.py migrate
+
+## 4.4 Documentation
+https://docs.djangoproject.com/en/5.0/
