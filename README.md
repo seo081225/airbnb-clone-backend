@@ -11,3 +11,8 @@ django-admin
 
 ## 3.0 Run Server
 python manage.py runserver
+
+
+## 4.1 Migrations
+python manage.py makemigrations 
+python manage.py migrate
