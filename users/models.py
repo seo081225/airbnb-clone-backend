@@ -15,5 +15,5 @@ class User(AbstractUser):
         default="",
     )
     is_host = models.BooleanField(
-        default=False,
+        null=True
     )
