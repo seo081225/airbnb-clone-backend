@@ -19,7 +19,8 @@ class RoomAdmin(admin.ModelAdmin):
         "city",
         "pet_friendly",
         "kind",
-        "amenities",
+        "total_amenities",
+        "rating",
         "created_at",
         "updated_at",
     )
