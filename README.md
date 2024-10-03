@@ -23,3 +23,6 @@ python manage.py migrate
 https://docs.djangoproject.com/en/5.0/
 
 python manage.py createsuperuser  
+
+## 10.0 Introduction 
+poetry add djangorestframework
